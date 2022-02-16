@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 -->
 
 😄 Pronouns: she/her
+
+
 🌱 I’m currently learning C#, Angular, Spring
